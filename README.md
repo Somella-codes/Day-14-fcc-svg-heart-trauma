@@ -24,6 +24,10 @@ Code really no dey respect effort abeg.
 
 ---
 
+### **The error that haunted me for 1 hour:**
+![FCC error message](fcc-error.png)
+
+
 ### **Behold: The heart that cost me almost an hour**
 ![Red heart icon](screenshot.png)
 

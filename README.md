@@ -34,7 +34,7 @@ Code really no dey respect effort abeg.
 ### **Day 14: The SVG That Finally Worked**
 After almost 1-hour line break fight, this heart actually renders 😭
 
-[👉 Click to see the code](index.html)
+[👉 Click to see the code](Index.html)
 
 
 ### **What FCC taught me today:**

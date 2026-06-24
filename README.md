@@ -31,6 +31,12 @@ Code really no dey respect effort abeg.
 ### **Behold: The heart that cost me almost an hour**
 ![Red heart icon](Screenshot_20260624_210056_Spck%20Editor.jpg)
 
+### **Day 14: The SVG That Finally Worked**
+After almost 1-hour line break fight, this heart actually renders 😭
+
+[👉 Click to see the code](index.html)
+
+
 ### **What FCC taught me today:**
 1. **Syntax is king** - Your logic can be perfect, but one space can end you
 2. **Error messages lie sometimes** - FCC said "d attribute missing" when the real issue was formatting  

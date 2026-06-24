@@ -1,6 +1,6 @@
 # Day-14-fcc-svg-heart-trauma
 
-# Day 14: The Heart Icon That Broke Me 😭
+## Day 14: The Heart Icon That Broke Me 😭
 
 **Task:** Draw a red heart with SVG. Sounds easy, right? 
 

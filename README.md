@@ -29,7 +29,7 @@ Code really no dey respect effort abeg.
 
 
 ### **Behold: The heart that cost me almost an hour**
-![Red heart icon](screenshot.png)
+![Red heart icon](Screenshot_20260624_210056_Spck%20Editor.jpg)
 
 ### **What FCC taught me today:**
 1. **Syntax is king** - Your logic can be perfect, but one space can end you
